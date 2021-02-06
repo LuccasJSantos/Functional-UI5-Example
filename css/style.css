@@ -1,1 +1,4 @@
 /* Enter your custom styles here */
+.checkedText[data-selected] .sapMLabel {
+  text-decoration: line-through;
+}
